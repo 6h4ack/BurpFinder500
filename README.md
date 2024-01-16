@@ -1,5 +1,5 @@
-# Bug-Finder-500
-Burp Finder 500 is a Burp extension developed to store 500 errors during an analysis.
+# BurpFinder500
+BurpFinder500 is a Burp extension developed to store 500 errors during an analysis.
 ## Installation
 We can add the plugin from the Burp Extensions section.
 ## How to use
